@@ -55,26 +55,6 @@ h1.main-title{
 	-webkit-transform:translate3d(-50%, -50%, 0);
 	transform:translate3d(-50%, -50%, 0);
 }
-h1.main-title::before{
-	position:absolute;
-	top:50%;
-	left:50%;
-	
-	content:'';
-	width:20px;
-	height:20vw;
-	min-width:3.5em;
-	min-height:3.5em;
-	background:url(../images/1-8.svg) no-repeat center center;
-	background-size:cover;
-	border-radius:50%;
-
-	-webkit-transform:translate3d(-50%, -50%, 0);
-	transform:translate3d(-50%, -50%, 0);
-
-	z-index:-1;
-	
-}
 
 .main-title .thin{
 	font-weight:200;
