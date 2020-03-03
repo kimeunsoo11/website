@@ -32,8 +32,8 @@ canvas{
 	background:#333;
 	overflow:hidden;
 	background-image:url(../images/KMS.jpg);
-	background-size:cover;
-	background-position: center bottom;
+	background-size:100% 300px;
+	background-position: center top;
 
 	z-index:1;
 }
