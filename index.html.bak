@@ -16,13 +16,13 @@
 		<div class="content">
 			<div id="large-header" class="large-header">
 				<canvas id="demo-canvas"></canvas>
-					<h1 class="main-title">KMS</h1>
-					<img src="images/KMS.jpg"/>
+					<h1 class="main-title">KMS</h1>					
            	</div><!-- large-header-->
 		</div><!-- content -->
 	</div><!--container -->
   	<script src="js/demo-2.js"></script>
     <div>
+		<p><img src="images/KMS.jpg"/></p>
     	<h1> KMS <span>개발자 Website</span></h1>
         <!-- <nav class="">
             <a href="">Demo 1</a>
@@ -52,8 +52,7 @@
             <li>
                 <h3>HiAPT 프로젝트</h3>
                     <video controls>
-                      <source src="movie.mp4" type="video/mp4">
-                      <source src="movie.ogg" type="video/ogg">
+                      <source src="potpol" type="video/mp4">
                       Your browser does not support the video tag.
                     </video>
             </li>            
