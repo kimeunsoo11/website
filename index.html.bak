@@ -36,8 +36,7 @@
         	<li>
     			<h3>우리i봄 프로젝트</h3>
                     <video id="myVideo" controls>
-                      <source src="images/movie/Join.mp4" type="video/mp4">
-                      <source src="movie.ogg" type="video/ogg">
+                      <source src="images/movie/potpol.mp4" type="video/mp4">
                       Your browser does not support the video tag.
                     </video>    		
                    <!--  <button type="button" onclick="vid_play()">재생/정지</button>   -->
