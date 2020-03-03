@@ -30,8 +30,8 @@ canvas{
 	width:100%;
 	background:#333;
 	overflow:hidden;
-	background-image:url(../images/KMS.png);
-	background-size:300px 500px;
+	background-image:url(../images/img1.png);
+	background-size:cover;
 	background-position: center bottom;
 
 	z-index:1;

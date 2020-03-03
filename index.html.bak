@@ -17,7 +17,7 @@
 			<div id="large-header" class="large-header">
 				<canvas id="demo-canvas"></canvas>
 					<h1 class="main-title">KMS</h1>
-					<img src=""/>
+					<img src="images/KMS.jpg"/>
            	</div><!-- large-header-->
 		</div><!-- content -->
 	</div><!--container -->
