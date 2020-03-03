@@ -4,14 +4,10 @@
 <head>
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<title>RohaWebsite</title>
+	<title>KMSWebsite</title>
 	<link href="css/component.css" rel="stylesheet" type="text/css"/>
   <link href="https://fonts.googleapis.com/css?family=Clicker+Script&display=swap" rel="stylesheet">
-    
- <!--============Favicons ===============-->
-  <link rel="shortcut icon" href="images/favicon1.ico" type="image/x-icon"/>
-  <link rel="apple-touch-icon-precomposed" href="images/favicon.png"/>
- 
+
 
 </head>
 <body>
@@ -20,13 +16,14 @@
 		<div class="content">
 			<div id="large-header" class="large-header">
 				<canvas id="demo-canvas"></canvas>
-					<h1 class="main-title">Roha</h1>
+					<h1 class="main-title">KMS</h1>
+					<img src=""/>
            	</div><!-- large-header-->
 		</div><!-- content -->
 	</div><!--container -->
   	<script src="js/demo-2.js"></script>
     <div>
-    	<h1> Roha <span>개발자 Website</span></h1>
+    	<h1> KMS <span>개발자 Website</span></h1>
         <!-- <nav class="">
             <a href="">Demo 1</a>
             <a href="">Demo 2</a>
@@ -86,7 +83,7 @@
         }
   </script>
 <footer>
-    <<span>Copyright &copy 2020. All Rights Reserved.</span>
+    <span>Copyright &copy 2020. All Rights Reserved.</span>
 </footer>
 </body>
 </html>
